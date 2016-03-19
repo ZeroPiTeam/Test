@@ -1,3 +1,3 @@
 # Test
 test github
-![image](https://github.com/ZeroPiTeam/Test/blob/master/picture/markdown.jpg)
+![image](https://github.com/ZeroPiTeam/Test/raw/master/picture/markdown.jpg)
